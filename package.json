@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command-line role playing game focused in using OOP and TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHernandez24e/jest-another-RPG.git"
+  },
+  "author": "Diego Hernandez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DHernandez24e/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/DHernandez24e/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
